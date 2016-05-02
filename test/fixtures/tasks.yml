@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  navn: MyString
+  beskrivelse: MyText
+  antal: 1
+  tid: 2016-05-01 23:19:41
+
+two:
+  navn: MyString
+  beskrivelse: MyText
+  antal: 1
+  tid: 2016-05-01 23:19:41
